@@ -1,0 +1,15 @@
+C:\Users\cris_\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.exe
+C:\Users\cris_\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.deps.json
+C:\Users\cris_\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.runtimeconfig.json
+C:\Users\cris_\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.dll
+C:\Users\cris_\Desktop\JogoRPG\bin\Debug\net6.0\JogoRPG.pdb
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.AssemblyReference.cache
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfoInputs.cache
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfo.cs
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.dll
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\refint\JogoRPG.dll
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.pdb
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\JogoRPG.genruntimeconfig.cache
+C:\Users\cris_\Desktop\JogoRPG\obj\Debug\net6.0\ref\JogoRPG.dll
